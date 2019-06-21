@@ -4,20 +4,15 @@
 - ``` git clone https://github.com/nithinsivakumar/Web-Crawler```
 -  cd to the directory where crawler.py is located
 ## Requirements - Python3
- 
-  If you have Python2, Python3 both installed and you use Python2 by default, you may want to execute the code using Python3
   
-  Python2 users, Python3 installed on the system
-    eg:- python3 crawler.py -h
-  
-  Python3 users:
-    You can execute normally eg:- python crawler.py
-  
+  - If you have python2, upgrade to python3 or install python3 and 
+    execute all the python commands by python3 instead of python.
+
 ## Dependencies
 
-* pip install validator_collection
-* pip install bs4 
-* pip install lxml
+* pip3 install validator_collection
+* pip3 install bs4 
+* pip3 install lxml
 
 - python2 users may want to use pip3
 ## Execution
