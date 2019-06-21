@@ -34,12 +34,16 @@
       ```
 
 2. Execute below command to crawl 'github.com' and store the crawled results in the file
-- `python crawler.py -u https://github.com -d 30 -f`
-- ```
-    Nithins-MacBook-Pro:crawl Nithin$ python crawler.py -u https://github.com -d 30 -f
-    url ['https://github.com'] depth 2 file True
-    Crawl done. Look for the output file at  /Users/Nithin/Desktop/crawl/github.txt
-    ```
+   
+   `$ python crawler.py -u https://github.com -d 30 -f`
+    
+    - sample run
+        ```
+        Nithins-MacBook-Pro:crawl Nithin$ python crawler.py -u https://github.com -d 30 -f
+        url ['https://github.com'] depth 2 file True
+        Crawl done. Look for the output file at  /Users/Nithin/Desktop/crawl/github.txt
+        
+        ```
 
 ### Optional arguments
 - `-u`  Can input one or more urls. All the parent domain crawls will be saved in domain specific filename
