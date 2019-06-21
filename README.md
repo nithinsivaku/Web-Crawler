@@ -5,7 +5,7 @@
 -  cd to the directory where crawler.py is located
 ## Requirements - Python3
   
-  - If you have python2, upgrade to python3 or install python3 and 
+  - If you use python2, upgrade to python3 or install python3 and 
     execute all the python commands by python3 instead of python.
 
 ## Dependencies
