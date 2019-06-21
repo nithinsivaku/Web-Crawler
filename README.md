@@ -18,6 +18,7 @@
 * pip install bs4 
 * pip install lxml
 
+> Note: If you just installed python3 and python2 is your default interpreter, you may have to use 'pip3 install #lib#'               'instead of just 'pip install #lib#'.
 ## Execution
 
 1. `python crawler.py -h`
