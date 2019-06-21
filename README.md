@@ -2,7 +2,7 @@
 
 ## Instructions to reproduce the result
 - ``` git clone https://github.com/nithinsivakumar/Web-Crawler```
--  make sure you are in the directory where crawler.py is located
+-  cd to the directory where crawler.py is located
 ## Requirements - Python3
  
   If you have Python2, Python3 both installed and you use Python2 by default, you may want to execute the code using Python3
