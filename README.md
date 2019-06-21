@@ -14,7 +14,6 @@
 * pip3 install bs4 
 * pip3 install lxml
 
-- python2 users may want to use pip3
 ## Execution
 
 1. `python crawler.py -h`
