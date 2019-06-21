@@ -7,6 +7,10 @@
   
   - If you use python2, upgrade to python3 or install python3 and 
     execute all the python commands by python3 instead of python.
+    
+  - I have python3 as a default python interpreter in my system, so I use
+    ``` python crawler.py ```
+  - Once python3 is installed, you should be using python3 or pip3 when executing commands
 
 ## Dependencies
 
