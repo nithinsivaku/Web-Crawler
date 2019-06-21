@@ -14,11 +14,11 @@ class WebCrawler():
 		
 	def __init__(self, url, max_depth, saveToFile ):
 
-		self.soup = None					# Beautiful Soup object
+		self.soup = None				# Beautiful Soup object
 		self.currentPage = url				# Current page's address
-		self.links = set()					# Set object to hold every unique links fetched
+		self.links = set()				# Set object to hold every unique links fetched
 		self.maxdepth = max_depth			# max depth to crawl
-		self.fileSaveStatus = saveToFile	# Save results to File? Y| N
+		self.fileSaveStatus = saveToFile		# Save results to File? Y| N
 
 	def crawl(self):
 		'''Main function to crawl URL's '''
