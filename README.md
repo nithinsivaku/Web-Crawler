@@ -10,13 +10,13 @@
     
   - I have python3 as a default python interpreter in my system, so I use
     ``` python crawler.py ```
-  - Once python3 is installed, you should be using python3 or pip3 when executing commands
+  - Once python3 is installed, you should be using python3/pip3 instead of python/pip when executing commands
 
 ## Dependencies
 
-* pip3 install validator_collection
-* pip3 install bs4 
-* pip3 install lxml
+* pip install validator_collection
+* pip install bs4 
+* pip install lxml
 
 ## Execution
 
