@@ -3,14 +3,6 @@
 ## Instructions to reproduce the result
 - ``` git clone https://github.com/nithinsivakumar/Web-Crawler```
 -  cd to the directory where crawler.py is located
-## Requirements - Python3
-  
-  - If you use python2, upgrade to python3 or install python3 and 
-    execute all the python commands by python3 instead of python.
-    
-  - I have python3 as a default python interpreter in my system, so I use
-    ``` python crawler.py ```
-  - Once python3 is installed, you should be using python3/pip3 instead of python/pip when executing commands
 
 ## Dependencies
 
@@ -18,7 +10,6 @@
 * pip install bs4 
 * pip install lxml
 
-> Note: If you just installed python3 and python2 is your default interpreter, you may have to use 'pip3 install #lib#'               'instead of just 'pip install #lib#'.
 ## Execution
 
 1. `python crawler.py -h`
